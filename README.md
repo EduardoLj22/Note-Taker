@@ -65,7 +65,7 @@ This application can be deployed on [Render](https://render.com/).
 
 ## Acceptance Criteria
 
-md
+
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
